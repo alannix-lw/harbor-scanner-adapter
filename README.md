@@ -1,4 +1,6 @@
 [![CI][ci-img]][ci]
+
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/b717edad-03e0-4648-bbb9-7d69531a5cee.svg)](https://app.soluble.cloud/repos/details/github.com/alannix-lw/harbor-scanner-adapter)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/a1be3542-fb14-4840-bca7-8c6b0f4f414d.svg)](https://app.soluble.cloud/repos/details/github.com/alannix-lw/harbor-scanner-adapter)  
 [![Go Reportcard][report-card-img]][report-card]
 
 # Harbor Scanner Adapter for Anchore Engine/Enterprise
